@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\celularPOO\obj\Debug\net8.0\celularPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\celularPOO\obj\Debug\net8.0\celularPOO.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\celularPOO\obj\Debug\net8.0\celularPOO.AssemblyInfo.cs
+C:\Users\User\Downloads\celularPOO\obj\Debug\net8.0\celularPOO.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\celularPOO\bin\Debug\net8.0\celularPOO.exe
+C:\Users\User\Downloads\celularPOO\bin\Debug\net8.0\celularPOO.deps.json
+C:\Users\User\Downloads\celularPOO\bin\Debug\net8.0\celularPOO.runtimeconfig.json
+C:\Users\User\Downloads\celularPOO\bin\Debug\net8.0\celularPOO.dll
+C:\Users\User\Downloads\celularPOO\bin\Debug\net8.0\celularPOO.pdb
+C:\Users\User\Downloads\celularPOO\obj\Debug\net8.0\celularPOO.dll
+C:\Users\User\Downloads\celularPOO\obj\Debug\net8.0\refint\celularPOO.dll
+C:\Users\User\Downloads\celularPOO\obj\Debug\net8.0\celularPOO.pdb
+C:\Users\User\Downloads\celularPOO\obj\Debug\net8.0\celularPOO.genruntimeconfig.cache
+C:\Users\User\Downloads\celularPOO\obj\Debug\net8.0\ref\celularPOO.dll
